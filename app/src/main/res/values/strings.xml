@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="map_intent">Enter Location</string>
+    <string name="show_map">Show Map</string>
+    <string name="browser_intent">Enter URL</string>
+    <string name="open_browser">Open browser</string>
+    <string name="text">Enter number to Call</string>
+    <string name="Send">Call</string>
+</resources>
